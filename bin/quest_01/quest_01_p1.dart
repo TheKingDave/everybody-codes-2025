@@ -1,10 +1,7 @@
 import '../utils.dart';
 
-const quest = 1;
-const part = 1;
-
 void main() async {
-  final lines = await getFile(quest, part).readAsLines();
+  final lines = await getFile().readAsLines();
 
   final names = parseStringList(lines.first);
 
