@@ -1,13 +1,10 @@
-import 'dart:io';
-import 'utils.dart';
+import '../utils.dart';
 
-const level = 1;
+const quest = 1;
 const part = 2;
 
 void main() async {
-  final lines = await File(
-    'inp/everybody_codes_e2025_q${level.toString().padLeft(2, '0')}_p$part.txt',
-  ).readAsLines();
+  final lines = await getFile(quest, part).readAsLines();
 
   final names = parseStringList(lines.first);
 
