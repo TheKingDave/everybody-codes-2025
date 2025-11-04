@@ -1,1 +1,1 @@
-A sample command-line application providing basic argument parsing with an entrypoint in `bin/`.
+My code for Everybody Codes [`The Song of Ducks and Dragons [2025]`](https://everybody.codes/event/2025/quests)
