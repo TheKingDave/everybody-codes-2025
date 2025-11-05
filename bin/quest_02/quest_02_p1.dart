@@ -1,9 +1,4 @@
-import 'dart:math';
 import 'complex.dart';
-
-const quest = 2;
-const part = 1;
-
 
 void main() async {
   Complex a = Complex(151, 50);

@@ -18,6 +18,10 @@ List<String> parseStringList(String inp) {
   return inp.split(',');
 }
 
+List<int> parseIntList(String inp) {
+  return parseStringList(inp).map(int.parse).toList();
+}
+
 extension SwappableList<E> on List<E> {
   void swap(int first, int second) {
     final temp = this[first];
