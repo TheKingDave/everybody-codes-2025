@@ -1,0 +1,29 @@
+Jaerzor,Helvor,Ardencyth,Zarathirin,Helaxis,Ardenacris,Ilmarfyr,Ilmarzor,Zarathketh,Tharilvor,Helgnar,Dorgnar,Ardencalyx,Cyndfyr,Zarathgnar,Tharilgnar,Zarathaxis,Dorcyth,Jaergnar,Dorvor,Tharilcalyx,Helcalyx,Ardenfyr,Tharilketh,Helketh,Jaeracris,Cyndacris,Ardenvor,Zarathacris,Helvor,Ilmarketh,Helfyr,Tharilfyr,Ilmaririn,Helketh,Ardenzor,Tharilzor,Zarathcyth,Zarathgnar,Ardengnar,Cyndvor,Helacris,Cyndcyth,Ardenaxis,Doracris,Cyndirin,Helgnar,Zarathketh,Dorzor,Zarathfyr,Jaercyth,Doraxis,Dorfyr,Zarathcalyx,Helaxis,Zarathvor,Dorketh,Helzor,Zarathzor,Helirin,Helcyth,Jaerfyr,Dorcalyx,Zarathfyr,Ilmarvor,Doririn,Ardenirin,Jaercalyx,Cyndzor,Helacris,Zarathzor,Ilmarcyth,Ardenketh,Tharilacris,Helcalyx,Helcyth,Jaeririn,Jaeraxis,Tharilirin,Jaervor,Cyndaxis,Jaerketh,Ilmarcalyx,Tharilcyth,Ilmargnar,Zarathcyth,Cyndketh,Helzor,Zarathaxis,Zarathcalyx,Ilmaraxis,Cyndcalyx,Helirin,Helfyr,Zarathirin,Ilmaracris,Cyndgnar,Zarathvor,Zarathacris,Tharilaxis
+
+y > r,t,x,v
+h > i,v,a,k,z,g,f,c
+J > a
+k > e
+z > o
+i > r,n,s,l
+f > y
+v > o
+l > m,y,i,v,a,k,z,g,f,c
+a > r,c,x,l,v,t
+A > r
+n > i,v,a,k,z,g,f,c,d
+I > l
+g > n
+Z > a
+r > f,v,i,a,k,z,g,c
+D > o
+C > y
+o > r,v
+T > h
+e > n,t,v,r
+d > e,i,v,a,k,z,g,f,c
+m > a
+t > h
+x > i
+H > e
+c > r,y,a

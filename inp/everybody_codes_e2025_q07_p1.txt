@@ -1,0 +1,16 @@
+Azral,Siljorath,Vanral,Vanjorath,Silthel,Silral,Azjorath,Azthel,Vanthel
+
+o > r
+A > z
+V > a
+a > t,l,b
+z > j,b
+l > t,j,r
+S > i
+n > t,j,r
+j > o
+r > a
+i > b
+h > e
+t > h
+e > l
