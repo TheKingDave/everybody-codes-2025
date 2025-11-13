@@ -329,6 +329,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.6.12"
+  trotter:
+    dependency: "direct main"
+    description:
+      name: trotter
+      sha256: df2d9b73105ece8455d490cb6ad05bf7c51f07e3db017a0f0979b97c24ef2e84
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.2.2"
   typed_data:
     dependency: transitive
     description:
